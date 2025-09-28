@@ -1,5 +1,5 @@
 # My_Projects
-This Repo show my own build Projects .
+This Repo show my own Projects .
 
 # My_Projects
 
